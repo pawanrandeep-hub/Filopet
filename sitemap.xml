@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://filopet.static.domains/</loc>
+  <lastmod>2025-11-03T04:07:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://filopet.static.domains/index.html</loc>
+  <lastmod>2025-11-03T04:07:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filopet.static.domains/search.html</loc>
+  <lastmod>2025-11-02T10:29:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filopet.static.domains/services.html</loc>
+  <lastmod>2025-11-02T10:29:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://filopet.static.domains/contact.html</loc>
+  <lastmod>2025-11-02T10:30:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
